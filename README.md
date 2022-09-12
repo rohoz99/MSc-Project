@@ -1,6 +1,5 @@
 # MSc-Project
-In order to implement the classifiers please use:
+In order to implement the classifiers please use the datasets found in the datasets.zip file
 
-Dataset_1 from https://github.com/das-lab/mpsd
 
-Dataset_2 which can be found in the Dataset folder
+
